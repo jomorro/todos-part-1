@@ -1,5 +1,5 @@
 {
-  "name": "todos",
+  "name": "todos-part2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
+  "homepage": "https://jomorro.github.io/todos-part-2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -16,13 +17,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-
-  "homepage": "https://jomorro.github.io/todos-part-1",
-
   "eslintConfig": {
     "extends": "react-app"
   },
-  
   "browserslist": [
     ">0.2%",
     "not dead",
